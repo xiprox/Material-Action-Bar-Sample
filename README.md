@@ -1,3 +1,5 @@
+####**This method of achieving a material style action bar was found before Google released the latest support libraries. At the moment, it's a lot wiser to make use of the support libraries. This method was nothing more than a hack to begin with. For info on how to use the AppCompat library, you can check out <a href="http://android-developers.blogspot.com/2014/10/appcompat-v21-material-design-for-pre.html">this blog post</a> on the android developers blog.**
+
 Material-Action-Bar-Sample
 ==========================
 
